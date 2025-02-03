@@ -1,1 +1,1 @@
-# .github
+# Operational Technology Training Project (OTTP)
